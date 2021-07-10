@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qasimsk2012
 - 👀 I’m interested in playing video games, football, surfing the internet
-- 🌱 I’m currently learning python, java, c++
+- 🌱 I'm an intermediate in python, html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
